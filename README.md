@@ -1,4 +1,4 @@
-# OLM Projects - 한국어 대화형 언어 모델 개발 프로젝트
+# On-device LLM demo
 
 ## 🎯 프로젝트 개요
 
@@ -180,10 +180,9 @@ jupyter notebook
 
 fine-tuning 된 모델의 시연을 위해, 개인 소유의 iPhone 16 pro (8GB RAM)을 사용하였습니다.
 
-<video width="100%" controls>
-  <source src="./assets/ScreenRecording_01-13-2025 17-00-23_1.mov" type="video/quicktime">
-  <p>브라우저가 비디오 태그를 지원하지 않습니다. <a href="./assets/ScreenRecording_01-13-2025 17-00-23_1.mov">여기를 클릭하여 동영상을 다운로드</a>하세요.</p>
-</video>
+
+https://github.com/user-attachments/assets/a76bb425-dd37-4808-a24c-f8a00ef24780
+
 
 
 ## 📝 라이선스
