@@ -1,0 +1,56 @@
+# 대용량 데이터 파일
+datasets/
+api_output/
+batch_file/
+*/results/
+
+# 모델 파일
+*.bin
+*.pth
+*.safetensors
+*.gguf
+*.model
+*.pkl
+
+# 임시 파일
+_unsloth_sentencepiece_temp/
+*_temp/
+*.tmp
+
+# 외부 라이브러리 (서브모듈로 관리)
+llama.cpp/
+
+# 로그 파일
+*.log
+logs/
+
+# 환경 파일
+.env
+.env.local
+config.env
+
+# IDE 파일
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python 관련
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db 
