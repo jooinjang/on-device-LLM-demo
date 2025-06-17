@@ -176,13 +176,13 @@ jupyter notebook
 
 ## 🎬 데모 영상
 
-해당 영상은 iOS 기반 환경에서 Chat Model을 테스트할 수 있는 오픈소스 애플리케이션인 LLMFarm(https://github.com/guinmoon/LLMFarm)을 통해 구동되었습니다.
+해당 영상은 iOS 기반 환경에서 Chat Model을 테스트할 수 있는 오픈소스 애플리케이션인 LLMFarm (https://github.com/guinmoon/LLMFarm) 을 통해 구동되었습니다.
 
 fine-tuning 된 모델의 시연을 위해, 개인 소유의 iPhone 16 pro (8GB RAM)을 사용하였습니다.
 
 <video width="100%" controls>
-  <source src="./assets/ScreenRecording_01-13-2025 17-00-23_1.MP4" type="video/mp4">
-  <p>브라우저가 비디오 태그를 지원하지 않습니다. <a href="./assets/ScreenRecording_01-13-2025 17-00-23_1.MP4">여기를 클릭하여 동영상을 다운로드</a>하세요.</p>
+  <source src="./assets/ScreenRecording_01-13-2025 17-00-23_1.mov" type="video/quicktime">
+  <p>브라우저가 비디오 태그를 지원하지 않습니다. <a href="./assets/ScreenRecording_01-13-2025 17-00-23_1.mov">여기를 클릭하여 동영상을 다운로드</a>하세요.</p>
 </video>
 
 
